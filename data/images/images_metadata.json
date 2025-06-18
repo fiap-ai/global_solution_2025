@@ -1,0 +1,117 @@
+{
+  "total_images": 12,
+  "download_date": "2025-06-17T02:36:41",
+  "images_directory": "../../data/images",
+  "source": "disasterscharter.org/library/images?type=satellites",
+  "total_size_bytes": 5678020,
+  "images": [
+    {
+      "title": "Flooding of the Albufera National Park - Post-disaster",
+      "description": "The storms were concentrated over the Magro, Turia, and Poyo river basins, unleashing a deluge of muddy water which made its way through the southern part of the city and eventually discharging into the Mediterranean sea and the Albufera National park, leading to the severe flooding seen here in the Sentinel-1 radar imagery. The dark areas represent standing water.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/27429774/Valencia_flood_Post_9a8a899f-ede6-496f-8cc7-711c7f329109_preview.jpg",
+      "filename": "satellite_01_Flooding_of_the_Albufera_National_Park_Post_disast.jpg",
+      "filepath": "../../data/images/satellite_01_Flooding_of_the_Albufera_National_Park_Post_disast.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 403193
+    },
+    {
+      "title": "Flooding of the Albufera National Park - Pre-disaster",
+      "description": "The storms were concentrated over the Magro, Turia, and Poyo river basins, unleashing a deluge of muddy water which made its way through the southern part of the city and eventually discharging into the Mediterranean sea and the Albufera National park, leading to the severe flooding seen here in the Sentinel-1 radar imagery. The dark areas represent standing water.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/27429774/Valencia_flood_Pre_9a8a899f-ede6-496f-8cc7-711c7f329109_preview.jpg",
+      "filename": "satellite_02_Flooding_of_the_Albufera_National_Park_Pre_disaste.jpg",
+      "filepath": "../../data/images/satellite_02_Flooding_of_the_Albufera_National_Park_Pre_disaste.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 395420
+    },
+    {
+      "title": "Sentinel-1 RedCyan composites near Hambatota in Sri Lanka - Post-disaster",
+      "description": "A pair of Sentinel-1 RedCyan VV-VH composites showing backscatter changes near Hambatota in Sri Lanka",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/25740844/act-887-product-MZZRS_image-overlay-1_preview.jpg",
+      "filename": "satellite_03_Sentinel_1_RedCyan_composites_near_Hambatota_in_Sr.jpg",
+      "filepath": "../../data/images/satellite_03_Sentinel_1_RedCyan_composites_near_Hambatota_in_Sr.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 773831
+    },
+    {
+      "title": "Sentinel-1 RedCyan composites near Hambatota in Sri Lanka - Pre-disaster",
+      "description": "A pair of Sentinel-1 RedCyan VV-VH composites showing backscatter changes near Hambatota in Sri Lanka",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/25740844/act-887-product-MZZRS_image-overlay-2_preview.jpg",
+      "filename": "satellite_04_Sentinel_1_RedCyan_composites_near_Hambatota_in_Sr.jpg",
+      "filepath": "../../data/images/satellite_04_Sentinel_1_RedCyan_composites_near_Hambatota_in_Sr.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 771219
+    },
+    {
+      "title": "Flooding Event in Rio Grande do Sul, Brazil - Post-disaster",
+      "description": "<p>\n\tThese images are from INPE satellites. The pre-disaster image was acquired by Amazonia-1 on 20 April 2024, and the post-disaster image contains a combination of CBERS-4, CBERS-4A and Amazonia-1 scenes, acquired on 5, 6, 7, and 9 May 2024.</p>",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/24699792/t2.jpg",
+      "filename": "satellite_05_Flooding_Event_in_Rio_Grande_do_Sul_Brazil_Post_di.jpg",
+      "filepath": "../../data/images/satellite_05_Flooding_Event_in_Rio_Grande_do_Sul_Brazil_Post_di.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 310494
+    },
+    {
+      "title": "Flooding Event in Rio Grande do Sul, Brazil - Pre-disaster",
+      "description": "<p>\n\tThese images are from INPE satellites. The pre-disaster image was acquired by Amazonia-1 on 20 April 2024, and the post-disaster image contains a combination of CBERS-4, CBERS-4A and Amazonia-1 scenes, acquired on 5, 6, 7, and 9 May 2024.</p>",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/24699792/t1.jpg",
+      "filename": "satellite_06_Flooding_Event_in_Rio_Grande_do_Sul_Brazil_Pre_dis.jpg",
+      "filepath": "../../data/images/satellite_06_Flooding_Event_in_Rio_Grande_do_Sul_Brazil_Pre_dis.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 330476
+    },
+    {
+      "title": "Flooding Event in Rio Grande do Sul state, Brazil - Post-disaster",
+      "description": "Images obtained by INPE's satellites. The pre-disaster image was obtained by Amazonia-1 on 20 April 2024, and the post-disaster image was obtained by CBERS-4 on 6 May 2024. The flooded areas appear in light brown.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/24699792/RS_WFIAMZ1e4A_20240420_B321_Anotado_1200.jpg",
+      "filename": "satellite_07_Flooding_Event_in_Rio_Grande_do_Sul_state_Brazil_P.jpg",
+      "filepath": "../../data/images/satellite_07_Flooding_Event_in_Rio_Grande_do_Sul_state_Brazil_P.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 561764
+    },
+    {
+      "title": "Flooding Event in Rio Grande do Sul state, Brazil - Pre-disaster",
+      "description": "Images obtained by INPE's satellites. The pre-disaster image was obtained by Amazonia-1 on 20 April 2024, and the post-disaster image was obtained by CBERS-4 on 6 May 2024. The flooded areas appear in light brown.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/24699792/RS_AWFI_20240506_156_135_L4_BAND151413_Anotado_1200.jpg",
+      "filename": "satellite_08_Flooding_Event_in_Rio_Grande_do_Sul_state_Brazil_P.jpg",
+      "filepath": "../../data/images/satellite_08_Flooding_Event_in_Rio_Grande_do_Sul_state_Brazil_P.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 486295
+    },
+    {
+      "title": "Flooded areas in Central Scotland - Post-disaster",
+      "description": "Sentinel-1 images over Scotland, South of Carnigorns National Park, showing large differences in backscatter over flooded areas (water surfaces appears black in a radar image). The Earn and Tay rivers show abnormally high water levels, along with several lochs in the area.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/22233463/Scotland_Flood_Post.jpg",
+      "filename": "satellite_09_Flooded_areas_in_Central_Scotland_Post_disaster.jpg",
+      "filepath": "../../data/images/satellite_09_Flooded_areas_in_Central_Scotland_Post_disaster.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 338433
+    },
+    {
+      "title": "Flooded areas in Central Scotland - Pre-disaster",
+      "description": "Sentinel-1 images over Scotland, South of Carnigorns National Park, showing large differences in backscatter over flooded areas (water surfaces appears black in a radar image). The Earn and Tay rivers show abnormally high water levels, along with several lochs in the area.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/22233463/Scotland_Flood_Pre.jpg",
+      "filename": "satellite_10_Flooded_areas_in_Central_Scotland_Pre_disaster.jpg",
+      "filepath": "../../data/images/satellite_10_Flooded_areas_in_Central_Scotland_Pre_disaster.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 364597
+    },
+    {
+      "title": "Floods along river Reka Ilistaya - Post-disaster",
+      "description": "Radar images highlighting the extent of flooding caused by Typhoon Khanun in the Primorye region of eastern Russia. In the post-event image (left), the black shading to the right hand side indicates areas submerged by water.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/21592807/rcm.jpg",
+      "filename": "satellite_11_Floods_along_river_Reka_Ilistaya_Post_disaster.jpg",
+      "filepath": "../../data/images/satellite_11_Floods_along_river_Reka_Ilistaya_Post_disaster.jpg",
+      "keywords": "satellite, flood, quickview, post-disaster",
+      "file_size": 508151
+    },
+    {
+      "title": "Floods along river Reka Ilistaya - Pre-disaster",
+      "description": "Radar images highlighting the extent of flooding caused by Typhoon Khanun in the Primorye region of eastern Russia. In the post-event image (left), the black shading to the right hand side indicates areas submerged by water.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/21592807/sa.jpg",
+      "filename": "satellite_12_Floods_along_river_Reka_Ilistaya_Pre_disaster.jpg",
+      "filepath": "../../data/images/satellite_12_Floods_along_river_Reka_Ilistaya_Pre_disaster.jpg",
+      "keywords": "satellite, flood, quickview, pre-disaster",
+      "file_size": 434147
+    }
+  ]
+}

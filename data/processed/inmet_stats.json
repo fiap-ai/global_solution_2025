@@ -1,0 +1,19 @@
+{
+  "total_records": 2000,
+  "total_sequences": 72651,
+  "flood_percentage": 0.560212522883374,
+  "stations": [
+    "TERESOPOLIS",
+    "NOVA_FRIBURGO"
+  ],
+  "date_range": [
+    "2021-01-01 13:00:00",
+    "2025-05-31 23:00:00"
+  ],
+  "features": [
+    "precipitation",
+    "humidity",
+    "temperature",
+    "pressure"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total_reports": 5,
+  "download_date": "2025-06-17T02:17:07",
+  "reports_directory": "../../data/reports",
+  "source": "disasterscharter.org/library/documents",
+  "reports": [
+    {
+      "title": "Charter Annual Report - 23",
+      "description": "The 23rd annual report describes the activities of the International Charter in 2023.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/article-image/25983038",
+      "filename": "report_01_Charter_Annual_Report_23.pdf",
+      "filepath": "../../data/reports/report_01_Charter_Annual_Report_23.pdf",
+      "keywords": "reports, document"
+    },
+    {
+      "title": "Charter Annual Report - 22",
+      "description": "The 22nd annual report describes the activities of the International Charter in 2022.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/article-image/25500824",
+      "filename": "report_02_Charter_Annual_Report_22.pdf",
+      "filepath": "../../data/reports/report_02_Charter_Annual_Report_22.pdf",
+      "keywords": "reports, document"
+    },
+    {
+      "title": "The International Charter Brand Guidelines",
+      "description": "This document summarizes the brand guidelines the Charter follows.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/article-image/24771121",
+      "filename": "report_03_The_International_Charter_Brand_Guidelines.pdf",
+      "filepath": "../../data/reports/report_03_The_International_Charter_Brand_Guidelines.pdf",
+      "keywords": "document"
+    },
+    {
+      "title": "Charter Newsletter: Issue 30",
+      "description": "The 30th issue of the International Charter Newsletter describes recent Charter activities.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/article-image/32025905",
+      "filename": "report_04_Charter_Newsletter_Issue_30.pdf",
+      "filepath": "../../data/reports/report_04_Charter_Newsletter_Issue_30.pdf",
+      "keywords": "newsletter, document"
+    },
+    {
+      "title": "Charter Newsletter: Issue 29",
+      "description": "The 29th issue of the International Charter Newsletter describes recent Charter activities.",
+      "url": "https://disasterscharter.org/cos-api/api/file/public/article-image/27140843",
+      "filename": "report_05_Charter_Newsletter_Issue_29.pdf",
+      "filepath": "../../data/reports/report_05_Charter_Newsletter_Issue_29.pdf",
+      "keywords": "newsletter, document"
+    }
+  ]
+}

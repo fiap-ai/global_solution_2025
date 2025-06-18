@@ -1,0 +1,666 @@
+[
+  {
+    "activation_id": "964",
+    "title": "Flood in South Africa",
+    "date": "2025-06-11T21:00:00",
+    "timestamp": 1749686400000,
+    "location": {
+      "country": "South Africa",
+      "region": "Global (sem filtro)",
+      "latitude": -31.52046442971612,
+      "longitude": 28.321733547046705
+    },
+    "metadata": {
+      "slug": "flood-in-south-africa-activation-964-",
+      "article_id": "32078773",
+      "external_reference": "ACT-1106",
+      "keywords": "floods, snow_hazard, 2025, south africa, activation",
+      "disaster_types": [
+        "floods",
+        "snow_hazard"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003237",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "963",
+    "title": "Flood in Nigeria",
+    "date": "2025-06-01T21:00:00",
+    "timestamp": 1748822400000,
+    "location": {
+      "country": "Nigeria",
+      "region": "Global (sem filtro)",
+      "latitude": 9.279634967204547,
+      "longitude": 4.874172145060206
+    },
+    "metadata": {
+      "slug": "flood-in-nigeria-activation-963-",
+      "article_id": "32046235",
+      "external_reference": "ACT-1105",
+      "keywords": "floods, nigeria, 2025, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003268",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "961",
+    "title": "Flood in Congo (Democratic Republic Of The)",
+    "date": "2025-04-09T21:00:00",
+    "timestamp": 1744243200000,
+    "location": {
+      "country": "Congo (democratic Republic Of The)",
+      "region": "Global (sem filtro)",
+      "latitude": -4.331377581333833,
+      "longitude": 15.32601736168205
+    },
+    "metadata": {
+      "slug": "flood-in-congo-democratic-republic-of-the-activation-961-",
+      "article_id": "31774184",
+      "external_reference": "ACT-1103",
+      "keywords": "floods, 2025, activation, congo (democratic republic of the)",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003283",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "960",
+    "title": "Flood in Kazakhstan",
+    "date": "2025-04-06T21:00:00",
+    "timestamp": 1743984000000,
+    "location": {
+      "country": "Kazakhstan",
+      "region": "Global (sem filtro)",
+      "latitude": 52.020210593111265,
+      "longitude": 68.62413400036804
+    },
+    "metadata": {
+      "slug": "flood-in-kazakhstan-activation-960-",
+      "article_id": "31731418",
+      "external_reference": "ACT-1102",
+      "keywords": "floods, 2025, kazakhstan, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003298",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "955",
+    "title": "Flood in Bolivia",
+    "date": "2025-03-20T21:00:00",
+    "timestamp": 1742515200000,
+    "location": {
+      "country": "Bolivia",
+      "region": "Global (sem filtro)",
+      "latitude": -22.277708727860684,
+      "longitude": -62.614670721505604
+    },
+    "metadata": {
+      "slug": "flood-in-bolivia-activation-955-",
+      "article_id": "31235618",
+      "external_reference": "ACT-1091",
+      "keywords": "floods, bolivia, 2025, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003311",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "953",
+    "title": "Flood in Kazakhstan",
+    "date": "2025-03-15T21:00:00",
+    "timestamp": 1742083200000,
+    "location": {
+      "country": "Kazakhstan",
+      "region": "Global (sem filtro)",
+      "latitude": 50.96902227485765,
+      "longitude": 64.03379072792241
+    },
+    "metadata": {
+      "slug": "flood-in-kazakhstan-activation-953-",
+      "article_id": "31026809",
+      "external_reference": "ACT-1088",
+      "keywords": "floods, 2025, kazakhstan, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003325",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "949",
+    "title": "Cyclone Jude in Madagascar",
+    "date": "2025-03-07T21:00:00",
+    "timestamp": 1741392000000,
+    "location": {
+      "country": "Madagascar",
+      "region": "Global (sem filtro)",
+      "latitude": -17.439244403959915,
+      "longitude": 47.519853890871644
+    },
+    "metadata": {
+      "slug": "flood-in-madagascar-activation-949-",
+      "article_id": "30711410",
+      "external_reference": "ACT-1084",
+      "keywords": "floods, storm_hurricane, 2025, madagascar, activation",
+      "disaster_types": [
+        "floods",
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003338"
+  },
+  {
+    "activation_id": "948",
+    "title": "Flooding in Argentina",
+    "date": "2025-03-06T21:00:00",
+    "timestamp": 1741305600000,
+    "location": {
+      "country": "Argentina",
+      "region": "Global (sem filtro)",
+      "latitude": -38.741825625000004,
+      "longitude": -62.23325741071428
+    },
+    "metadata": {
+      "slug": "flood-in-argentina-activation-948-",
+      "article_id": "30703092",
+      "external_reference": "ACT-1083",
+      "keywords": "floods, argentina, 2025, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003347",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "946",
+    "title": "Flood in Peru",
+    "date": "2025-03-02T21:00:00",
+    "timestamp": 1740960000000,
+    "location": {
+      "country": "Peru",
+      "region": "Global (sem filtro)",
+      "latitude": -9.504288860114974,
+      "longitude": -77.35993537582151
+    },
+    "metadata": {
+      "slug": "flood-in-peru-activation-946-",
+      "article_id": "30657868",
+      "external_reference": "ACT-1080",
+      "keywords": "floods, 2025, peru, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003361",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "945",
+    "title": "Flood in Botswana",
+    "date": "2025-02-23T21:00:00",
+    "timestamp": 1740355200000,
+    "location": {
+      "country": "Botswana",
+      "region": "Global (sem filtro)",
+      "latitude": -24.56779766348588,
+      "longitude": 25.98522556152259
+    },
+    "metadata": {
+      "slug": "flood-in-botswana-activation-945-",
+      "article_id": "30613215",
+      "external_reference": "ACT-1079",
+      "keywords": "floods, 2025, botswana, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:49.003380",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "941",
+    "title": "Flood in Scotland",
+    "date": "2024-12-29T21:00:00",
+    "timestamp": 1735516800000,
+    "location": {
+      "country": "United Kingdom",
+      "region": "Europe",
+      "latitude": 56.893413479539795,
+      "longitude": -4.059944188358805
+    },
+    "metadata": {
+      "slug": "flood-in-united-kingdom-activation-941-",
+      "article_id": "ACT-1074",
+      "external_reference": "ACT-1074",
+      "keywords": "floods, 2024, united kingdom of great britain and northern ireland, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:58.392350",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "924",
+    "title": "Flood in Spain",
+    "date": "2024-10-31T21:00:00",
+    "timestamp": 1730419200000,
+    "location": {
+      "country": "Spain",
+      "region": "Europe",
+      "latitude": 39.4303189,
+      "longitude": -0.438964
+    },
+    "metadata": {
+      "slug": "flood-in-spain-activation-924-",
+      "article_id": "ACT-1054",
+      "external_reference": "ACT-1054",
+      "keywords": "floods, spain, 2024, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:58.392373",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "882",
+    "title": "Flood in Russia",
+    "date": "2024-05-16T21:00:00",
+    "timestamp": 1715904000000,
+    "location": {
+      "country": "Russian Federation",
+      "region": "Europe",
+      "latitude": 57.90647797806399,
+      "longitude": 70.03574800830062
+    },
+    "metadata": {
+      "slug": "flood-in-russian-federation-activation-882-",
+      "article_id": "ACT-1010",
+      "external_reference": "ACT-1010",
+      "keywords": "floods, 2024, russian federation, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:58.392383",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "871",
+    "title": "Flood in Russia",
+    "date": "2024-04-03T21:00:00",
+    "timestamp": 1712188800000,
+    "location": {
+      "country": "Russian Federation",
+      "region": "Europe",
+      "latitude": 53.55100861006624,
+      "longitude": 63.421825387116435
+    },
+    "metadata": {
+      "slug": "flood-in-russian-federation-activation-871-",
+      "article_id": "ACT-999",
+      "external_reference": "ACT-999",
+      "keywords": "floods, 2024, russian federation, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:47:58.392393",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "920",
+    "title": "Hurricane Milton in the United States",
+    "date": "2024-10-08T21:00:00",
+    "timestamp": 1728432000000,
+    "location": {
+      "country": "United States",
+      "region": "North America",
+      "latitude": 27.271170454545455,
+      "longitude": -82.39880593614718
+    },
+    "metadata": {
+      "slug": "storm-hurricane-in-united-states-activation-920-",
+      "article_id": "ACT-1050",
+      "external_reference": "ACT-1050",
+      "keywords": "floods, united states of america, storm_hurricane, 2024, activation, flood",
+      "disaster_types": [
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:00.738473"
+  },
+  {
+    "activation_id": "858",
+    "title": "Flood in the Marshall Islands",
+    "date": "2024-01-21T21:00:00",
+    "timestamp": 1705881600000,
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Oceania",
+      "latitude": 7.205619519389328,
+      "longitude": 170.20751762991938
+    },
+    "metadata": {
+      "slug": "flood-flash-in-marshall-islands-activation-858-",
+      "article_id": "ACT-985",
+      "external_reference": "ACT-985",
+      "keywords": "marshall islands, floods, 2024, flood_flash, activation",
+      "disaster_types": [
+        "flood_flash"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:06.940685",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "926",
+    "title": "Flood in The Dominican Republic",
+    "date": "2024-11-04T21:00:00",
+    "timestamp": 1730764800000,
+    "location": {
+      "country": "Dominican Republic",
+      "region": "Caribbean",
+      "latitude": 19.035814583333334,
+      "longitude": -70.08540629166666
+    },
+    "metadata": {
+      "slug": "flood-in-dominican-republic-activation-926-",
+      "article_id": "ACT-1057",
+      "external_reference": "ACT-1057",
+      "keywords": "floods, dominican republic, 2024, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221388",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "925",
+    "title": "Tropical Storm Rafael in the Cayman Islands",
+    "date": "2024-11-03T21:00:00",
+    "timestamp": 1730678400000,
+    "location": {
+      "country": "Cayman Islands",
+      "region": "Caribbean",
+      "latitude": 19.57724193471429,
+      "longitude": -80.3711338760077
+    },
+    "metadata": {
+      "slug": "storm-hurricane-in-cayman-islands-activation-925-",
+      "article_id": "ACT-1056",
+      "external_reference": "ACT-1056",
+      "keywords": "cyclones, floods, cayman islands, storm_hurricane, 2024, activation, flood",
+      "disaster_types": [
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221418"
+  },
+  {
+    "activation_id": "916",
+    "title": "Tropical Cyclone 9 in Cayman Islands",
+    "date": "2024-09-23T21:00:00",
+    "timestamp": 1727136000000,
+    "location": {
+      "country": "Cayman Islands",
+      "region": "Caribbean",
+      "latitude": 19.445038157407406,
+      "longitude": -80.82823341666666
+    },
+    "metadata": {
+      "slug": "flood-in-cayman-islands-activation-916-",
+      "article_id": "ACT-1046",
+      "external_reference": "ACT-1046",
+      "keywords": "floods, cayman islands, storm_hurricane, 2024, activation",
+      "disaster_types": [
+        "floods",
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221430"
+  },
+  {
+    "activation_id": "894",
+    "title": "Hurricane Beryl in Dominican Republic",
+    "date": "2024-07-04T21:00:00",
+    "timestamp": 1720137600000,
+    "location": {
+      "country": "Dominican Republic",
+      "region": "Caribbean",
+      "latitude": 18.4614298,
+      "longitude": -69.9427508
+    },
+    "metadata": {
+      "slug": "flood-in-dominican-republic-activation-894-",
+      "article_id": "ACT-1022",
+      "external_reference": "ACT-1022",
+      "keywords": "floods, dominican republic, 2024, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221439"
+  },
+  {
+    "activation_id": "892",
+    "title": "Hurricane Beryl in the Cayman Islands",
+    "date": "2024-07-01T21:00:00",
+    "timestamp": 1719878400000,
+    "location": {
+      "country": "Cayman Islands",
+      "region": "Caribbean",
+      "latitude": 19.488036767789993,
+      "longitude": -80.74147197646371
+    },
+    "metadata": {
+      "slug": "storm-hurricane-in-cayman-islands-activation-892-",
+      "article_id": "ACT-1020",
+      "external_reference": "ACT-1020",
+      "keywords": "floods, cayman islands, storm_hurricane, 2024, activation",
+      "disaster_types": [
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221449"
+  },
+  {
+    "activation_id": "893",
+    "title": "Hurricane Beryl in Jamaica",
+    "date": "2024-07-01T21:00:00",
+    "timestamp": 1719878400000,
+    "location": {
+      "country": "Jamaica",
+      "region": "Caribbean",
+      "latitude": 15.50694654898861,
+      "longitude": -69.77939975672706
+    },
+    "metadata": {
+      "slug": "storm-hurricane-in-jamaica-activation-893-",
+      "article_id": "ACT-1021",
+      "external_reference": "ACT-1021",
+      "keywords": "floods, storm_hurricane, jamaica, 2024, activation",
+      "disaster_types": [
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221459"
+  },
+  {
+    "activation_id": "876",
+    "title": "Flood in the Dominican Republic",
+    "date": "2024-05-07T21:00:00",
+    "timestamp": 1715126400000,
+    "location": {
+      "country": "Dominican Republic",
+      "region": "Caribbean",
+      "latitude": 19.484928625000002,
+      "longitude": -70.447275625
+    },
+    "metadata": {
+      "slug": "flood-in-dominican-republic-activation-876-",
+      "article_id": "ACT-1004",
+      "external_reference": "ACT-1004",
+      "keywords": "floods, dominican republic, 2024, landslide, activation, flood",
+      "disaster_types": [
+        "floods",
+        "landslde"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:14.221468",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "929",
+    "title": "Flood in Costa Rica",
+    "date": "2024-11-13T21:00:00",
+    "timestamp": 1731542400000,
+    "location": {
+      "country": "Costa Rica",
+      "region": "Central America",
+      "latitude": 9.56673812513993,
+      "longitude": -84.42352402243831
+    },
+    "metadata": {
+      "slug": "flood-in-costa-rica-activation-929-",
+      "article_id": "ACT-1060",
+      "external_reference": "ACT-1060",
+      "keywords": "floods, 2024, costa rica, landslide, activation",
+      "disaster_types": [
+        "floods",
+        "landslide"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:19.535943",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "918",
+    "title": "Hurricane John in Mexico",
+    "date": "2024-09-27T21:00:00",
+    "timestamp": 1727481600000,
+    "location": {
+      "country": "Mexico",
+      "region": "Central America",
+      "latitude": 16.75025874458034,
+      "longitude": -99.37597274282781
+    },
+    "metadata": {
+      "slug": "flood-in-mexico-activation-918-",
+      "article_id": "ACT-1048",
+      "external_reference": "ACT-1048",
+      "keywords": "floods, mexico, storm_hurricane, 2024, landslide, activation",
+      "disaster_types": [
+        "floods",
+        "landslide"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:19.535974"
+  },
+  {
+    "activation_id": "931",
+    "title": "Flood in Gaza",
+    "date": "2024-11-25T21:00:00",
+    "timestamp": 1732579200000,
+    "location": {
+      "country": "Gaza",
+      "region": "Middle East",
+      "latitude": 31.38504819200641,
+      "longitude": 34.378299483791096
+    },
+    "metadata": {
+      "slug": "flood-in-palestinian-territory-occupied-activation-931-",
+      "article_id": "ACT-1062",
+      "external_reference": "ACT-1062",
+      "keywords": "floods, gaza strip, 2024, activation",
+      "disaster_types": [
+        "floods"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:25.132182",
+    "disaster_type": "flood",
+    "severity": "medium"
+  },
+  {
+    "activation_id": "867",
+    "title": "Storm in United Arab Emirates",
+    "date": "2024-03-07T21:00:00",
+    "timestamp": 1709856000000,
+    "location": {
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "latitude": 24.88636185,
+      "longitude": 55.612524099999995
+    },
+    "metadata": {
+      "slug": "flood-in-united-arab-emirates-activation-867-",
+      "article_id": "ACT-995",
+      "external_reference": "ACT-995",
+      "keywords": "cyclones, floods, storm_hurricane, 2024, united arab emirates, activation",
+      "disaster_types": [
+        "Floods",
+        "storm_hurricane"
+      ]
+    },
+    "data_source": "disasterscharter.org",
+    "collected_at": "2025-06-17T01:48:25.132215"
+  }
+]
