@@ -5,21 +5,26 @@ API REST para predição de enchentes em tempo real usando modelo LSTM treinado.
 
 ## 🚀 Quick Start
 ```bash
-# Setup ambiente único
+# Setup ambiente único (se ainda não foi feito)
 cd python/
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate   # Windows
 
-# Executar API
+# Instalar dependências
 pip install -r api/requirements.txt
+
+# MÉTODO 1: Executar API diretamente (RECOMENDADO)
+python api/main.py
+
+# MÉTODO 2: Usar uvicorn manualmente
 uvicorn api.main:app --reload --port 8000
 
 # Testar API
 curl http://localhost:8000/health
 ```
 
-## 📋 Pré-requisitos
+## � Pré-requisitos
 - **Python 3.8+** (mesmo do módulo flood_prediction)
 - **Modelo treinado** (deve executar `python/flood_prediction/train.py` primeiro)
 - **8GB+ RAM** (para carregar modelo TensorFlow)
@@ -262,7 +267,25 @@ curl -X POST http://localhost:8000/predict \
 
 ## ✅ Como Testar
 
-### Teste 1: Testes Automatizados
+### Teste 1: Script Completo de Testes (RECOMENDADO)
+```bash
+# Executar script completo de testes (na pasta api/)
+./test_api_complete.sh
+
+# OU do diretório raiz do projeto
+./python/api/test_api_complete.sh
+```
+
+**O que o script testa:**
+- ✅ Health check da API
+- ✅ Teste automático interno 
+- ✅ Predição cenário normal (LOW risk)
+- ✅ Predição cenário crítico (HIGH/CRITICAL risk)
+- ✅ Validação de dados inválidos (422)
+- ✅ Documentação Swagger (/docs)
+- ✅ Performance (<1 segundo)
+
+### Teste 2: Testes Unitários
 ```bash
 # Executar todos os testes
 python test_api.py

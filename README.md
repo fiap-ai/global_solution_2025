@@ -11,6 +11,7 @@
 ## 🎯 Global Solution 2025 - Eventos Naturais Extremos
 
 ### 🔗 Links Importantes
+- **[🎥 Vídeo Demonstração](https://youtu.be/sxkn4W8YydQ)** *(sistema funcionando)*
 - **[Simulação ESP32 no Wokwi](https://wokwi.com/projects/434060150016336897)** *(funcionando)*
 - **[GitHub Repository](https://github.com/fiap-ai/global_solution_2025)** *(público)*
 - **[Documentação Técnica](docs/)** 📚 *Completa*
@@ -18,7 +19,7 @@
 ---
 
 ## 👨‍🎓 Integrante: 
-- **Gabriel Mule Monteiro** - RM XXXXX
+- <a href="https://www.linkedin.com/in/gabemule/">**Gabriel Mule Monteiro**</a> - RM560586
 
 ## 👩‍🏫 Professor:
 - **Professor(a) XXXXX** - Tutor(a)

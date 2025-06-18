@@ -453,6 +453,6 @@ A combinação de **dados reais**, **tecnologias maduras** e **arquitetura escal
 ---
 
 ### Demonstração Prática
+- **Vídeo demonstração**: [https://youtu.be/sxkn4W8YydQ](https://youtu.be/sxkn4W8YydQ) - Sistema funcionando end-to-end 
 - **Simulação ESP32**: [https://wokwi.com/projects/434060150016336897](https://wokwi.com/projects/434060150016336897)
 - **Código completo**: [https://github.com/fiap-ai/global_solution_2025](https://github.com/fiap-ai/global_solution_2025)
-- **Vídeo demonstração**: Sistema funcionando end-to-end (5 minutos)
